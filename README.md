@@ -1,5 +1,5 @@
-# glitch-static-site-to-fastly
+# diosdeath.com webpage
 
-A repo for deploying your static Glitch projects to Fastly Compute
-
-**CHECK OUT [MIGRATE.md](MIGRATE.md) for steps**
+These are the sources of https://diosdeath.com , Barcelona death metal band page
+based on Glitch BIO and served by Fastly. Hacks are all around, we cannot recommend
+forking this
