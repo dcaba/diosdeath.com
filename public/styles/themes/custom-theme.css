@@ -27,7 +27,7 @@ ul.link-list li a span {
   font-weight: bold;
 }
 body {
-  background-image: url("img/2501background.jpg");
+  background-image: url("../../img/2501background.jpg");
   background-size: 80%;
   background-position: center;
   background-repeat: no-repeat;

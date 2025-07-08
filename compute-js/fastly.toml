@@ -2,10 +2,10 @@
 # https://www.fastly.com/documentation/reference/compute/fastly-toml
 
 authors = ["Keith Kurson <keith@glitch.com>"]
-description = "Your very own link-in-bio app."
+description = "DIOS death metal band page"
 language = "javascript"
 manifest_version = 3
-name = "glitch-in-bio"
+name = "diosdeath.backend"
 service_id = "JOtdhBNr65RJsVmhzkbH30"
 
 [local_server]

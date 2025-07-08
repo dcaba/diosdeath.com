@@ -1,7 +1,7 @@
 {
-  "name": "glitch-in-bio",
+  "name": "diosdeath.backend",
   "version": "1.0.1",
-  "description": "Your very own link-in-bio app.",
+  "description": "DIOS death metal band page",
   "main": "index.html",
   "scripts": {
     "start": "vite",
