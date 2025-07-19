@@ -7,13 +7,13 @@
   "links": [
     {
       "url": "about.html",
-      "text": "Información del grupo",
+      "text": "Información",
       "img": "img/PAPYRO_BLANCO_TRANS_SIMPLE-low.png"
     },
     {
       "url": "https://es.concerts-metal.com/g-60710__Dios.html",
-      "text": "Agenda conciertos concerts-metal",
-      "img": "img/8f5d0787ed9af05113eb41afb36c17bd-double-speakers-icon.png"
+      "text": "Agenda de conciertos",
+      "img": "img/calendar2.png"
     },
     {
       "url": "https://diosdeath.bandcamp.com/",
