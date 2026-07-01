@@ -3,7 +3,7 @@
   "metaDescription": "Barcelona metal band webpage",
   "theme": "custom-theme",
   "avatarImage": "img/logo.png",
-  "name": "Roods From God is out!",
+  "name": "Buy ReExordium!",
   "links": [
     {
       "url": "about.html",
@@ -17,7 +17,7 @@
     },
     {
       "url": "https://diosdeath.bandcamp.com/",
-      "text": "Roods From God en Bandcamp",
+      "text": "Bandcamp",
       "img": "img/bargain-2.png"
     },
     {
